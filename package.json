@@ -1,0 +1,16 @@
+{
+  "name": "lioli-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3",
+    "pg": "^8.12.0",
+    "pg-hstore": "^2.3.4",
+    "dotenv": "^16.4.5"
+  }
+}
